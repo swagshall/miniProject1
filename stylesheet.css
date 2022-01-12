@@ -1,4 +1,9 @@
+header{
+    background-color: aquamarine;
+    color: black;
+}
 .topnav{
     position: relative;
-    right: 200%;
+    left: 80%;
+    
 }
